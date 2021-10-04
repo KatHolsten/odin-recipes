@@ -1,0 +1,21 @@
+* {
+    background-color: #ff7faa;
+}
+
+.header {
+    color:#7fffd4;
+    background-color:black;
+    font-size: 60px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+a {
+    color: hsl(0, 0%, 0%);
+}
